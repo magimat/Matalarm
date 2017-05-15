@@ -1,6 +1,15 @@
 # Matalarm
 
 
+### port série
+
+attention au port série usb
+
+ajuster /etc/ser2sock/ser2sock.conf en conséquence:
+
+```device = /dev/ttyUSB0```
+
+
 ###  Notes
 
 Prérequis ser2sock: https://github.com/nutechsoftware/ser2sock
