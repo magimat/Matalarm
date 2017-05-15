@@ -1,0 +1,17 @@
+{
+  "name": "matalarm",
+  "version": "1.0.0",
+  "description": "Mat AD2USB controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Mathieu Girard",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
