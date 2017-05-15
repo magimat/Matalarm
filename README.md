@@ -17,12 +17,13 @@ pour builder le CakeFile de node-ad2usb
 
 puis ajout de dépendance privée:
 
-```npm install https://github.com/magimat/node-ad2usb/tarball/master -save'''
-
+```npm install https://github.com/magimat/node-ad2usb/tarball/master -save```
 
 
 référence ad2usb protocol:  http://www.alarmdecoder.com/wiki/index.php/Protocol
 
 
+
+pour installer en service sur raspberry pi, voir repo Matsteon
 
 
