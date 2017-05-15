@@ -4,7 +4,7 @@
   "description": "Mat AD2USB controller",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon matalarm.js"
   },
   "author": "Mathieu Girard",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
+    "ad2usb": "https://github.com/magimat/node-ad2usb/tarball/master",
     "express": "^4.15.2"
   }
 }
