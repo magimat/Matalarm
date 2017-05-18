@@ -1,6 +1,6 @@
 const ALARM_PORT = "/dev/ttyUSB0"
 const API_PORT = 4000
-const ALARM_PIN = ***REMOVED***
+const ALARM_PIN = 12345
 
 var express = require('express');
 var app = express();
