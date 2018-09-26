@@ -1,4 +1,4 @@
-const ALARM_PORT = "/dev/ttyUSB0"
+const ALARM_PORT = "/dev/ad2usb"
 const API_PORT = 4000
 const ALARM_PIN = 12345
 
