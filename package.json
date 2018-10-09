@@ -12,7 +12,7 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
-    "ad2usb": "https://github.com/magimat/node-ad2usb/tarball/master",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "mqtt": "^2.7.2"
   }
 }
